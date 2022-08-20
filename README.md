@@ -12,4 +12,4 @@ edit config videoID : config.json
 ```
 
 
-<h2 align="center">การติดตามความบ้าบอของกู: <a href="https://www.facebook.com/Yollayud.C7"></a></h2>
+<h2 align="center">การติดตามความบ้าบอของกู: <a href="https://www.facebook.com/Yollayud.C7">Facebook</a></h2>
