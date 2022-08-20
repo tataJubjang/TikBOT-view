@@ -1,2 +1,12 @@
-# TikBOT-view
-น้องนอกใตทำไมกัน รักนะค่ะ นะคะ น่ะค่ะ ครับ
+
+How to run:
+```
+ขี้้เกียจบ่น
+
+pip install requests bs4 cursor pystyle pillow
+
+use script : python boti.py
+
+edit config videoID : config.json
+
+```
